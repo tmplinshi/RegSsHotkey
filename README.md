@@ -8,4 +8,4 @@
 下载地址: https://github.com/tmplinshi/RegSsHotkey/releases
 
 
-[捐赠](https://t.alipayobjects.com/images/mobilecodec/T1XClFXnpcXXXXXXXX) (支付宝)
+[捐赠](https://t.alipayobjects.com/images/mobilecodec/T1XClFXnpcXXXXXXXX) (支付宝二维码)
