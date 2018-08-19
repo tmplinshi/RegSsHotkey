@@ -1,3 +1,5 @@
+### 注：Shadowsocks 4.1.0 已增加“启动时注册快捷键”功能，不再需要此工具了。
+
 # RegSsHotkey
 由于 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows) 启动时不会自动注册已设置的快捷键，每次开机后都要手工注册一遍，很浪费时间，所以就写了这个工具代替手工操作。
 
